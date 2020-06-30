@@ -1,0 +1,33 @@
+==================================================================
+Functional Connectivity starts at 2019/09/09 10:45:02
+==================================================================
+Current directory is: C:\Projects\Code\Codes_ImageAnalysis-master\network\rsFC_seed
+------------------------------------------------------------------
+-------------- Contents of the Parameter List --------------------
+              data_type: 'nii'
+             raw_server: 'C:\Users\xujiahua\Desktop\data'
+          output_folder: 'C:\Users\xujiahua\Desktop\data\rsFC_seed'
+            sess_folder: 'RS'
+    preprocessed_folder: 'smoothed_spm12'
+            imagefilter: 'swcar'
+                     TR: 2
+            bandpass_on: 1
+                     fl: 0.0080
+                     fh: 0.1000
+                roi_dir: 'C:\Users\xujiahua\Desktop\network_analysis\seed_whole_brain\Seed_WholeBrain_tt\roi'
+               NUMTRUNC: [5 5]
+            subjectlist: {'sub02'}
+               roi_list: {4×1 cell}
+
+------------------------------------------------------------------
+----------------------------------------------------------------
+Processing subject: sub02 
+系统找不到指定的路径。 
+[警告: 目录已存在。] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scr_rsFC_seed', 'C:\Projects\Code\Codes_ImageAnalysis-master\network\rsFC_seed\scr_rsFC_seed.m', 115)" style="font-weight:bold">scr_rsFC_seed</a> (<a href="matlab: opentoline('C:\Projects\Code\Codes_ImageAnalysis-master\network\rsFC_seed\scr_rsFC_seed.m',115,0)">line 115</a>)] 
+Copy files from: C:\Users\xujiahua\Desktop\data\sub02\fmri\RS\smoothed_spm12 
+to: C:\Users\xujiahua\Desktop\data\rsFC_seed\temp_sub02 
+系统找不到指定的路径。 
+'gunzip' 不是内部或外部命令，也不是可运行的程序 
+或批处理文件。 
+Bandpass filtering data ......................................
